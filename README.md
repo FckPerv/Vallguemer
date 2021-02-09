@@ -1,2 +1,0 @@
-# Vallguemer
-shitti game here
